@@ -1,6 +1,7 @@
 {
   "messages": [
     {
+      "id": "12",
       "name": "Sheldhur Mornor",
       "message": "lol",
       "seenStatus": "just now",
@@ -9,6 +10,7 @@
       "isAdmin": true
     },
     {
+      "id": "10",
       "name": "aaaaaaaaaaa",
       "message": "Am I a shoha, aren't I ???",
       "seenStatus": "5 min",
@@ -17,6 +19,7 @@
       "isAdmin": false
     },
     {
+      "id": "15",
       "name": "Maks",
       "message": "ADMINS, where are you?",
       "seenStatus": "just now",
